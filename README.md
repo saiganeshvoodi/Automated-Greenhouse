@@ -45,7 +45,6 @@ The Automated Greenhouse monitors environmental conditions like air quality, tem
 - Blynk App
 - ThingSpeak account
 
-
 ## Installation
 
 1. Clone this repository:
