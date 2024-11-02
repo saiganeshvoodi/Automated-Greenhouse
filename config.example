@@ -1,0 +1,6 @@
+{
+  "wifi_ssid": "your_wifi_ssid",
+  "wifi_password": "your_wifi_password",
+  "blynk_auth_token": "your_blynk_auth_token",
+  "thingspeak_api_key": "your_thingspeak_api_key"
+}

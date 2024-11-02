@@ -1,4 +1,15 @@
+# Compiled files
 *.bin
 *.elf
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
 .DS_Store
+
+# Credentials or sensitive files
+config.json
+.env
 

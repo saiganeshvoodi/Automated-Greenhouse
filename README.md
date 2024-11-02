@@ -2,6 +2,16 @@
 
 An IoT-based greenhouse automation project using ESP8266, DHT11, MQ sensors, Blynk, and ThingSpeak. This project monitors environmental parameters and automates control systems like fans, pumps, and lights for optimal plant growth.
 
+## Getting Started
+
+- Clone the repository
+- Add your credentials to the `config.json` file (use `config.example` as a guide)
+- Upload the code to your ESP8266 device
+
+For full instructions, please refer to the main README file.
+
+---
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
