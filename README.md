@@ -1,4 +1,4 @@
-# Automated Greenhouse
+# Automated Greenhouse 
 
 An IoT-based greenhouse automation project using ESP8266, DHT11, MQ sensors, Blynk, and ThingSpeak. This project monitors environmental parameters and automates control systems like fans, pumps, and lights for optimal plant growth.
 
